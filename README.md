@@ -5,7 +5,7 @@ Node.js: Declarative Command Line Editor
 ________
 
 
-## Getting to know      &nbsp;&nbsp;|&nbsp;&nbsp;    Infinity. kennenlernen
+## Getting to Know      &nbsp;&nbsp;|&nbsp;&nbsp;    Infinity. kennenlernen
 
 ## Starting Out         &nbsp;&nbsp;|&nbsp;&nbsp;    Infinity. nutzen
 
