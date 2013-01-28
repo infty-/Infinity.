@@ -1,0 +1,11 @@
+- Objektstruktur-Denkfehler
+  - this-Fehler						!!
+  - Konstruktor statt Prototyp
+  - Arbeiten mit falschem Objekt
+- Tippfehler
+  - Typo
+  - Variablennamenänderung nur an einer Stelle
+- Rekursions-Denkfehler
+- Syntax-Denkfehler
+  - `return`-Weglassung
+  - falsche Argumente/Reihenfolge

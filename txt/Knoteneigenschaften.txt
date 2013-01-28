@@ -1,0 +1,19 @@
+- Element
+  - Typ
+  - Attribut +
+  - Erstling
+- Attribut
+  - Typ
+  - Inhalt
+- Kommentar
+  - Inhalt
+- Text
+  - Inhalt
+- CDATA
+  - Inhalt
+
+- Inhalt
+  - Teilinhalt +
+- Typ
+  - Namespace
+  - Lokal

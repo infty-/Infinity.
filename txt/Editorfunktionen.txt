@@ -1,0 +1,9 @@
+- Eingeben
+- Kopieren (Verschieben)
+- Entfernen
+
+- Suchen (Springen)
+- Ersetzen
+- Sortieren
+
+- Makro

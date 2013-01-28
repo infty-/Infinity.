@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<title>Namen</title>
+	<meta charset="utf-8" />
+</html>
+<body>
+	<ul>
+		<li>Peter</li>
+		<li>Annelise</li>
+	</ul>
+</body>
+
+-
+
+
+Wenn der Knoten ein Element des Typs <li> des aktuellen Dokuments ist, dann hat das gleiche Element in der nächsten Version ein @class="item"-Attribut.
+
+     AboutNext (NewAttribut ("class") ("item")) (InCurrent (GetElementsByName ("li")))

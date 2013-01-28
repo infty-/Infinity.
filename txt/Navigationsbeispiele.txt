@@ -1,0 +1,37 @@
+<verzeichnis>
+     <titel>Wikipedia Städteverzeichnis</titel>
+     <eintrag>
+          <stichwort>Genf</stichwort>
+          <eintragstext>Genf ist der Sitz von ...</eintragstext>
+     </eintrag>
+     <eintrag>
+          <stichwort>Köln</stichwort>
+          <eintragstext>Köln ist eine Stadt, die ...</eintragstext>
+     </eintrag>
+</verzeichnis>
+
+== GENF ERWEITERN ==
+1. <eintrag>
+<eintragstext> / #2
+Empty vor "..."
+
+== DANN STICHWORT ÄNDERN ==
+Parent
+<stichwort> / #1
+Kinder
+
+<html>
+     <head>
+	  <title>Logische Elemente für Textauszeichnung formatieren mit CSS</title>
+     </head>
+     <body>
+          <h1>Viele viele bunte Logis</h1>
+
+	  <p>
+	       Text mit dem <em style="color:blue">em-Element</em><br>
+	       Text mit dem <strong style="color:red">strong-Element</strong><br>
+	       Text mit dem <code style="color:purple">code-Element</code><br>
+	       <!-- usw. --> 
+	  </p>
+     </body>
+</html>
