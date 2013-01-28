@@ -1,0 +1,10 @@
+== ERLAUBT | ALLOWED ==
+Automatische Auswahl | auto selection	->   Statische Bearbeitung | static changing		zB: Allen <li> wird nur jetzt ein @class="item" hinzugefügt
+Manuelle Auswahl | manual selection		->   Dynamische Bearbeitung | dynamic changing		zB: Explizit gewählten <li> wird immer automatisch ein @class="item" hinzugefügt 
+Manuelle Auswahl | manual selection		->   Statische Bearbeitung | static changing		zB: Explizit gewählten <li> wird nur jetzt ein @class="item" hinzugefügt
+
+== VERBOTEN ==
+Automatische Auswahl	->   Dyamische Bearbeitung		zB: Allen <li> wird immer automatisch ein @class="item" hinzugefügt
+	- verwirrend | confusing
+	- Keine Möglichkeit, <li> ohne @class="item" zu erstellen | not possible to create <li> without @class="item"
+	- Wäre es sinnvoll in manchen Fällen? | Would it be useful in some cases?

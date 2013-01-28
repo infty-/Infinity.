@@ -1,7 +1,0 @@
-==ERLAUBT==
-Automatische Auswahl	->   Statische Bearbeitung		zB: Allen <li> wird nur jetzt ein @class="item" hinzugefügt
-Manuelle Auswahl	->   Dynamische Bearbeitung		zB: Explizit gewählten <li> wird immer automatisch ein @class="item" hinzugefügt 
-Manuelle Auswahl   	->   Statische Bearbeitung		zB: Explizit gewählten <li> wird nur jetzt ein @class="item" hinzugefügt
-
-==VERBOTEN==
-Automatische Auswahl	->   Dyamische Bearbeitung		zB: Allen <li> wird immer automatisch ein @class="item" hinzugefügt (verwirrend)
