@@ -2,6 +2,7 @@ Infinity.
 ========
 
 Node.js: Declarative Command Line Editor
+Node.js: Ein deklarativer Editor am CLI
 ________
 
 
