@@ -20,3 +20,6 @@ Inserting | Einfügung	  Type-Stmns about Empty.			 (Literal Made Up of Element, 
 Adding Attribute	  Attribute-Stmns about Element.
 Tagging			  Tag-Stmns about Selection.
 Deletion		  Saying that it is an Empty.
+
+Moving/Copying		  ?
+Makro bzw. Applying	  ?
