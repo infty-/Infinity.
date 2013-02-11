@@ -1,6 +1,12 @@
-Stages are selections that can be bound to one or more different locations in documents or be just floating.
+Stages are selections that can be bound to one or more different locations in a specific development branch in a document or be just floating.
 
 You can apply transitions to stages in order to create new stages.
 
 Removing stages can be seen as TAGGING them as "no longer accessible".
 	 - Should a tag be able to step in the timeline that much? Yes, because it can be seen as request for action to the processor.
+
+Not any composition of stages produces a valid file, every composition provides a well-formed file.
+
+Branches are created automatically when a transition is applied to a stage. Branches can be marked as production ready, in itself complete or incomplete by tagging the documentusing a non-permanent tag.
+
+Every branch is connected to its precedor.
