@@ -1,0 +1,22 @@
+== SELECTOR | SELEKTOR ==
+
+Parent	    <>
+Content	    <>
+Attribute   <> +
+
+All Before  <>
+All After   <>
+Segment	    <> +
+
+El. Of Type ## +   \
+Attr. Of T. ## +   |
+Instr. Of T.## +   /
+
+Tag    	    ## +
+
+== PROPERTY | EIGENSCHAFT ==
+
+Inserting | Einfügung	  Type-Stmns about Empty.			 (Literal Made Up of Element, Instruction, Text)
+Adding Attribute	  Attribute-Stmns about Element.
+Tagging			  Tag-Stmns about Selection.
+Deletion		  Saying that it is an Empty.
