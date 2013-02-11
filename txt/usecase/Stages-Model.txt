@@ -1,4 +1,6 @@
-<table>		The `<table>` where everything happens.
+<table>		The self-sustaining unit of happenings.
+<tbody>		The common parent element of subject and destination.
 <tr>#2		The subject of the copy operation.
-<!---->#1	The destination, the place for new entries.
-"Johannes-Paul" Name field's content of the subject row.`<table>` where everything happens.
+<!---->#1	The destination placeholder, the place for new entries.
+fic:<!---->#1	The fictive destination empty instead of the placeholder. 
+"Johannes-Paul" Name field's content of the subject row.
