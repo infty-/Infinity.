@@ -1,1 +1,6 @@
-Stages are selections.
+Stages are selections that can be bound to one or more different locations in documents or be just floating.
+
+You can apply transitions to stages in order to create new stages.
+
+Removing stages can be seen as TAGGING them as "no longer accessible".
+	 - Should a tag be able to step in the timeline that much? Yes, because it can be seen as request for action to the processor.
