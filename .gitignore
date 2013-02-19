@@ -1,0 +1,88 @@
+#################
+## npm
+#################
+
+npm-debug.log
+node_modules/
+!/node_modules/
+!src/node_modules/
+
+
+#################
+## git
+#################
+
+.gitattributes
+
+
+#################
+## rep - Archiv Data
+#################
+
+rep/
+
+
+#################
+## Emacs
+#################
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+
+#################
+## Netbeans
+#################
+
+nbproject/
+
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
